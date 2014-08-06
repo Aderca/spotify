@@ -1,7 +1,5 @@
-spotify
+Spotify wake up music AppleScript
 =======
-
-AppleScript for Spotify wake up music
 
 www.aderca.net/spotify-alarm
 
